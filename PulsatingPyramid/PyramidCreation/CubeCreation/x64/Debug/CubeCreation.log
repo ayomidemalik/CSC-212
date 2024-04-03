@@ -1,0 +1,8 @@
+﻿  pyramid.cpp
+  pyramidNoOOP.cpp
+C:\Users\MEMUD ABDULMALIK AYO\Desktop\PulsatingPyramid\PyramidCreation\pyramidNoOOP.cpp(57,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MEMUD ABDULMALIK AYO\Desktop\PulsatingPyramid\PyramidCreation\pyramidNoOOP.cpp(57,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MEMUD ABDULMALIK AYO\Desktop\PulsatingPyramid\PyramidCreation\pyramidNoOOP.cpp(57,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MEMUD ABDULMALIK AYO\Desktop\PulsatingPyramid\PyramidCreation\pyramidNoOOP.cpp(57,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  CubeCreation.vcxproj -> C:\Users\MEMUD ABDULMALIK AYO\Desktop\PulsatingPyramid\PyramidCreation\x64\Debug\CubeCreation.exe
