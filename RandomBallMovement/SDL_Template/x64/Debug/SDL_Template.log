@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\MEMUD ABDULMALIK AYO\Downloads\SDL_Template (2)\RandomBallMovement\test.cpp(92,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDL_Template.vcxproj -> C:\Users\MEMUD ABDULMALIK AYO\Downloads\SDL_Template (2)\RandomBallMovement\x64\Debug\SDL_Template.exe
